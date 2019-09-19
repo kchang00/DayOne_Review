@@ -1,6 +1,8 @@
 //imports go first -> grab _vars and any other partials
 @import '_vars';
-@import 'modules/navbar';
+@import 'modules/_navbar';
+@import 'modules/_users';
+@import 'modules/_footer';
 
 body {
     background-color: $body-bg;
